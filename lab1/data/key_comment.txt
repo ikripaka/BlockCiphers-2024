@@ -1,0 +1,6 @@
+./heys.bin e 8 pt.txt ct.txt key.txt
+* Heys cipher version 0.1 *
+You want to use this encryption key:
+K0 = 6261, K1 = 6463, K2 = 6665, K3 = 6867,
+K4 = 6A69, K5 = 6C6B, K6 = 6E6D
+So be it.
